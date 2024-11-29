@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "curso_flutter_web-main",
+            "request": "launch",
+            "type": "dart",
+            "program": "diseño_chill\\main.dart"
+        },
+        {
+            "name": "curso_flutter_web-main (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "diseño_chill\\main.dart"
+        },
+        {
+            "name": "curso_flutter_web-main (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "diseño_chill\\main.dart"
+        }
+    ]
+}
